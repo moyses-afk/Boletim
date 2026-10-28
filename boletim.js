@@ -1,4 +1,4 @@
-const nome1 = joao; const nome2 = ana; const nome3 = maria; const nome4 = jose; const nome5 = gabriel; const nome6 = lucas;
+const nome1 = "joao"; const nome2 = "ana"; const nome3 = "maria"; const nome4 = "jose"; const nome5 = "gabriel"; const nome6 = "lucas";
 const nota1 = 6; const nota2 = 5; const nota3 = 7; const nota4 = 8; const nota5 = 9; const nota6 = 4;
 
 if (nota1 >= 6){
